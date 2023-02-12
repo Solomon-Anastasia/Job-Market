@@ -1,0 +1,10 @@
+GOOGLE,20,Solomon Anastasia,25
+GOOGLE,20,Rosca Daniel,40
+AMAZON,50,Popescu Mariana,25
+MICROSOFT,100,Cebotri Ion,140
+FACEBOOK,30,Glavan Alexandru,20
+AMAZON,50,Bercaru Patricia,75
+MICROSOFT,100,Jomiru Nicolae,120
+FACEBOOK,30,Ciuperca Maxim,34
+GOOGLE,20,Grecu Mariana,20
+MICROSOFT,100,Tacu Adrian,76

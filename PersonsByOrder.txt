@@ -1,0 +1,26 @@
+Internship.Internship: GOOGLE
+Required score: 20
+Persons
+Solomon Anastasia 25.0
+Rosca Daniel 40.0
+Grecu Mariana 20.0
+
+Internship.Internship: AMAZON
+Required score: 50
+Persons
+Popescu Mariana 25.0
+Bercaru Patricia 75.0
+
+Internship.Internship: MICROSOFT
+Required score: 100
+Persons
+Cebotri Ion 140.0
+Jomiru Nicolae 120.0
+Tacu Adrian 76.0
+
+Internship.Internship: FACEBOOK
+Required score: 30
+Persons
+Glavan Alexandru 20.0
+Ciuperca Maxim 34.0
+
